@@ -1,7 +1,7 @@
 {
   "name": "DropDown_Examples",
   "description": "All about dropdown",
-  "main": "InputDialogDropdownUsingWebsiteDropdownList.xaml",
+  "main": "DynamicSearch-FullList-SelectionFromTypeIntoActivity.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.12.3]",
     "UiPath.Mail.Activities": "[1.15.2]",
@@ -47,6 +47,18 @@
     {
       "filePath": "InputDialogDropdownUsingWebsiteDropdownList.xaml",
       "uniqueId": "58eb125e-212b-41c9-b527-8e78e5c8563d",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "DynamicSearch-OneItem-SelectionFromTypeIntoActivity.xaml",
+      "uniqueId": "96828146-223e-4a13-b23a-fd278a25a3b1",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "DynamicSearch-FullList-SelectionFromTypeIntoActivity.xaml",
+      "uniqueId": "dac49a2b-6b65-4319-8d23-fdec7da22a9f",
       "input": [],
       "output": []
     }
